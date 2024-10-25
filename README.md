@@ -1,8 +1,6 @@
 
 # Comparador de Percursos - BestRoute
 
-![Interface do Comparador de Percursos](https://github.com/kjeehcs/BestRoute/blob/main/Assets/Img/BestRoute-img.png?raw=true)
-
 O **BestRoute** é um aplicativo desenvolvido em Python que permite comparar prazos de entrega entre diferentes transportadoras utilizando planilhas do Excel. Com uma interface gráfica simples, o usuário pode selecionar até 5 planilhas e visualizar qual transportadora oferece o prazo mais rápido para um dado percurso.
 
 ## Funcionalidades
@@ -56,3 +54,5 @@ Contribuições são bem-vindas! Se você tiver sugestões, correções ou melho
 ## Contato
 
 Para mais informações ou dúvidas, entre em contato pelo e-mail: [kjeehcs@gmail.com].
+
+![Interface do Comparador de Percursos](https://github.com/kjeehcs/BestRoute/blob/main/Assets/Img/BestRoute-img.png?raw=true)
